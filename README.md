@@ -2,5 +2,12 @@
 
 My first gravity simulation program
 
-Program video wil be here ⮯⮯⮯
+Program gif ⤵
 
+![program gif](throwtheball.gif "Simulation example")
+
+Try: http://berkkaraal.com/throw-the-ball/
+
+----
+
+I used [p5.js](http://p5js.org/) for this project
