@@ -6,7 +6,7 @@ Program gif ⤵
 
 ![program gif](throwtheball.gif "Simulation example")
 
-Try: http://berkkaraal.com/throw-the-ball/
+Try: http://berkkaraal.com/p5js/throw-the-ball/
 
 ----
 
